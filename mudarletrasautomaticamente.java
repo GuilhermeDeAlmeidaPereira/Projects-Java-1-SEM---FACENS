@@ -2,7 +2,7 @@
 Fazer uma string inverter os maiúsculos
 e minúsculos automaticamente
 */
-package mudarletrasautomaticamente;
+
 import java.util.Scanner;
 public class MudarLetrasAutomaticamente {
 
