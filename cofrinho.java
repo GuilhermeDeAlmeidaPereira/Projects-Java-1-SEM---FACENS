@@ -1,4 +1,3 @@
-package lista3.pkg2;
 import java.util.Scanner;
 public class Lista32 {       
     public static void main(String[] args) {
