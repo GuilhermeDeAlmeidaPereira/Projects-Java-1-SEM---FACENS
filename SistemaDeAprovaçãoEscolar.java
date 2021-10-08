@@ -1,4 +1,3 @@
-package switch_lista2;
 import java.util.Scanner;
 public class Switch_lista2 {
 
