@@ -1,4 +1,3 @@
-package aprender.pkgdo.pkgwhile;
 import java.util.Scanner;
 public class exer2DoWhile {
       
