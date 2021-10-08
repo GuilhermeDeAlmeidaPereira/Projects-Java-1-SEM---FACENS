@@ -1,4 +1,3 @@
-package aprender.pkgdo.pkgwhile;
 import java.util.Scanner;
 public class exer9dowhile {
     public static void main(String[] args){
